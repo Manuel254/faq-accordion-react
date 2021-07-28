@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Screenshot
 
-![]()
+![Desktop screenshot](https://github.com/Manuel254/faq-accordion-react/blob/main/src/images/Frontend%20Mentor%20FAQ%20Accordion%20Card.png)
 
 ### Links
 
