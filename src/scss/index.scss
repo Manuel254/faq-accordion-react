@@ -105,14 +105,14 @@ hr {
   .container {
     position: relative;
     overflow: hidden;
-    margin: 7.5rem 20rem;
+    margin: 7.5rem 15rem;
     min-height: 70vh;
   }
 
   .flex-cont {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    column-gap: 20%;
+    column-gap: 5%;
   }
 
   .background-pattern {
