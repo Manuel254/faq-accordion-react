@@ -5,6 +5,7 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 ## Table of contents
 
 - [Overview](#overview)
+  - [Installation](#installation)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
@@ -16,9 +17,13 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
+
+### Installation
+
+1. **npm install** to install all dependencies.
+2. cd faq-accordion
+3. **npm start** to start the app
 
 ### The challenge
 
@@ -34,7 +39,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Github](https://github.com/Manuel254/faq-accordion-react)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
